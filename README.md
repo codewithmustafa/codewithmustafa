@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Mustafa!
+
+### Software Developer, Dart & Flutter
+
+As an experienced Flutter and mobile engineer, I have spent over three years designing, developing, and optimizing mobile applications that are not only high-performance and scalable but also resonate deeply with users. 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mustafa-demir-13306821b/)
+
+
+
 
 <!--
 **codewithmustafa/codewithmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
