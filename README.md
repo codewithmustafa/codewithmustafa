@@ -32,8 +32,20 @@ As an experienced Flutter and mobile engineer, I have spent over three years des
 #### 2016
 - [Hadisi Şerif (Kütüb-i Sitte)](https://play.google.com/store/apps/details?id=com.hadisktbstte)
 
+### My Articles
+- [Is Using GitHub Copilot When Coding Beneficial for Active Recall and Deliberate Practice?](https://medium.com/@mustafademir/is-using-github-copilot-when-coding-beneficial-for-active-recall-and-deliberate-practice-46684ff29df6)
+- [https://medium.com/@mustafademir/git-alias-ile-geli%C5%9Ftirici-%C3%BCretkenli%C4%9Fini-art%C4%B1rmak-905bed0f6f3c](https://medium.com/@mustafademir/git-alias-ile-geli%C5%9Ftirici-%C3%BCretkenli%C4%9Fini-art%C4%B1rmak-905bed0f6f3c)
+- [UI Aksiyonları için Güçlü Bir Çözüm: Provider Paketindeki Listener Eksikliğini Gidermek — Part 1 — Flutter & Dart](https://medium.com/@mustafademir/ui-aksiyonlar%C4%B1-i%C3%A7in-g%C3%BC%C3%A7l%C3%BC-bir-%C3%A7%C3%B6z%C3%BCm-provider-paketindeki-listener-eksikli%C4%9Fini-gidermek-flutter-85e557e4730b)
+- [UI Aksiyonları için Güçlü Bir Çözüm: Provider Paketindeki Listener Eksikliğini Gidermek — Part 2— Flutter & Dart](https://medium.com/@mustafademir/ui-aksiyonlar%C4%B1-i%C3%A7in-g%C3%BC%C3%A7l%C3%BC-bir-%C3%A7%C3%B6z%C3%BCm-provider-paketindeki-listener-eksikli%C4%9Fini-gidermek-part-2-88bfe299543f)
+- [Komut Satırı Aliasları ile Flutter Geliştirici Üretkenliğini Artırmak](https://medium.com/@mustafademir/komut-sat%C4%B1r%C4%B1-aliaslar%C4%B1-ile-flutter-geli%C5%9Ftirici-%C3%BCretkenli%C4%9Fini-art%C4%B1rmak-c6fabd839a61)
 
+### My Dart & Flutter packages on pub.dev
+- [tcmb_api_client](https://pub.dev/packages/tcmb_api_client)
+- [tailwind_palette](https://pub.dev/packages/tailwind_palette)
 
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/mustafa-demir-13306821b/)
+- [Twitter](https://x.com/benmustafademir)
 
 
 <!--
