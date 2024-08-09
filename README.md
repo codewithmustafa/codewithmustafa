@@ -47,6 +47,7 @@ As an experienced Flutter and mobile engineer, I have spent over three years des
 - [LinkedIn](https://www.linkedin.com/in/mustafa-demir-13306821b/)
 - [Twitter](https://x.com/benmustafademir)
 
+--- 
 Updated on Aug 9, 2024
 <!--
 **codewithmustafa/codewithmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
