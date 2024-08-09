@@ -11,9 +11,9 @@ As an experienced Flutter and mobile engineer, I have spent over three years des
 ### My Work
 
 #### 2023 - 2024
-- [Faturam Yolda(In collaboration with a small but talented team))](https://play.google.com/store/apps/details?id=com.nakfa.faturamyolda)
-- [Faturam Cepte(In collaboration with a small but talented team))](https://play.google.com/store/apps/details?id=com.nakfa.faturamcepte)
-- [Faturam Sektörel(In collaboration with a small but talented team))](https://play.google.com/store/apps/details?id=com.efatura.mobile.app)
+- [Faturam Yolda(In collaboration with a small but talented team)](https://play.google.com/store/apps/details?id=com.nakfa.faturamyolda)
+- [Faturam Cepte(In collaboration with a small but talented team)](https://play.google.com/store/apps/details?id=com.nakfa.faturamcepte)
+- [Faturam Sektörel(In collaboration with a small but talented team)](https://play.google.com/store/apps/details?id=com.efatura.mobile.app)
 
 #### 2023
 - [Maintenance Fee Tracker](https://apps.apple.com/tr/app/maintenance-fee-tracker/id1668020853)
