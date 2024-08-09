@@ -18,6 +18,13 @@ As an experienced Flutter and mobile engineer, I have spent over three years des
 - [Status Downloader](https://play.google.com/store/apps/details?id=vitaminapps.statussaver.statusdownloader)
 - [Asmaul Husna 99 Names of Allah](https://play.google.com/store/apps/details?id=com.esmaulhusna.asmaulhusna)
 - [Countdown and Day Counter](https://play.google.com/store/apps/details?id=okulsayaci.tatilsayaci.android)
+- [Motivation and Wisdom](https://play.google.com/store/apps/details?id=com.motivasyonvitamini.motivasyonsozleri)
+
+#### 2017
+- [Kuran'ı Kerim](https://play.google.com/store/apps/details?id=com.mustafakus.kuranikerim)
+
+#### 2016
+- [Hadisi Şerif (Kütüb-i Sitte)](https://play.google.com/store/apps/details?id=com.hadisktbstte)
 
 
 
