@@ -6,6 +6,20 @@ As an experienced Flutter and mobile engineer, I have spent over three years des
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mustafa-demir-13306821b/)
 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/benmustafademir)
+
+### My Work
+#### 2023
+- [Maintenance Fee Tracker](https://apps.apple.com/tr/app/maintenance-fee-tracker/id1668020853)
+- [Tally Counter](https://apps.apple.com/tr/app/reciting-counter-real-like/id6447054762)
+- [AI Buddie: Smart & Wise](https://apps.apple.com/tr/app/ai-buddie-smart-wise/id1665458911)
+
+#### 2018
+- [Status Downloader](https://play.google.com/store/apps/details?id=vitaminapps.statussaver.statusdownloader)
+- [Asmaul Husna 99 Names of Allah](https://play.google.com/store/apps/details?id=com.esmaulhusna.asmaulhusna)
+- [Countdown and Day Counter](https://play.google.com/store/apps/details?id=okulsayaci.tatilsayaci.android)
+
+
 
 
 
